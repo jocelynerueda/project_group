@@ -1,3 +1,3 @@
 # project_group
 
-I love readne files
+I love readme files
